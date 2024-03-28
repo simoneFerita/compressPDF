@@ -9,5 +9,6 @@ if don't work follow these steps:
 1. Install anaconda  https://www.anaconda.com/download
 2. Platform-independant (Using conda)
 
-    Install poppler: conda install -c conda-forge poppler
-    Install pdf2image: pip install pdf2image
+    -Install poppler: conda install -c conda-forge poppler
+   
+    -Install pdf2image: pip install pdf2image
