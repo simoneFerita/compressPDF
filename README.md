@@ -16,4 +16,5 @@ if don't work follow these steps:
 
 
 for more details:
+
 https://simoneferita.altervista.org/how-to-reduce-size-of-pdf-to-dont-waste-the-local-space-of-disk/
