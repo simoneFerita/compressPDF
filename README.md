@@ -12,3 +12,7 @@ if don't work follow these steps:
     -Install poppler: conda install -c conda-forge poppler
    
     -Install pdf2image: pip install pdf2image
+
+
+
+https://simoneferita.altervista.org/how-to-reduce-size-of-pdf-to-dont-waste-the-local-space-of-disk/
